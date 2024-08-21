@@ -1,1 +1,1 @@
-welcome to gitub
+welcome to github
